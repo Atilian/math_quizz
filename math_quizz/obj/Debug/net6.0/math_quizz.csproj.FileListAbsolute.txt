@@ -1,0 +1,15 @@
+C:\Users\Gasco\source\repos\math_quizz\math_quizz\bin\Debug\net6.0\math_quizz.exe
+C:\Users\Gasco\source\repos\math_quizz\math_quizz\bin\Debug\net6.0\math_quizz.deps.json
+C:\Users\Gasco\source\repos\math_quizz\math_quizz\bin\Debug\net6.0\math_quizz.runtimeconfig.json
+C:\Users\Gasco\source\repos\math_quizz\math_quizz\bin\Debug\net6.0\math_quizz.dll
+C:\Users\Gasco\source\repos\math_quizz\math_quizz\bin\Debug\net6.0\math_quizz.pdb
+C:\Users\Gasco\source\repos\math_quizz\math_quizz\obj\Debug\net6.0\math_quizz.csproj.AssemblyReference.cache
+C:\Users\Gasco\source\repos\math_quizz\math_quizz\obj\Debug\net6.0\math_quizz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gasco\source\repos\math_quizz\math_quizz\obj\Debug\net6.0\math_quizz.AssemblyInfoInputs.cache
+C:\Users\Gasco\source\repos\math_quizz\math_quizz\obj\Debug\net6.0\math_quizz.AssemblyInfo.cs
+C:\Users\Gasco\source\repos\math_quizz\math_quizz\obj\Debug\net6.0\math_quizz.csproj.CoreCompileInputs.cache
+C:\Users\Gasco\source\repos\math_quizz\math_quizz\obj\Debug\net6.0\math_quizz.dll
+C:\Users\Gasco\source\repos\math_quizz\math_quizz\obj\Debug\net6.0\refint\math_quizz.dll
+C:\Users\Gasco\source\repos\math_quizz\math_quizz\obj\Debug\net6.0\math_quizz.pdb
+C:\Users\Gasco\source\repos\math_quizz\math_quizz\obj\Debug\net6.0\math_quizz.genruntimeconfig.cache
+C:\Users\Gasco\source\repos\math_quizz\math_quizz\obj\Debug\net6.0\ref\math_quizz.dll
